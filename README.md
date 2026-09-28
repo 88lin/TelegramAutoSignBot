@@ -1,6 +1,6 @@
 # TelegramAutoSignBot
 
-[简体中文](README_CN.md)
+[简体中文](README.zh-CN.md)
 
 Send scheduled commands from a Telegram user account to a small, configured list of bots using Telethon and GitHub Actions.
 
